@@ -2,7 +2,7 @@
 
 # AIM:
 
-To study the problem statement ,SRS document and draw the UML diagram of hospital management system system
+To study the problem statement ,SRS document and draw the UML diagram of hospital management system.
 
 # SRS (Procedure):
 
